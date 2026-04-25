@@ -1,5 +1,5 @@
 # ===== Core DL =====
-tensorflow==2.15.1
+tensorflow==2.16.1
 
 # ===== Scientific stack (versiones compatibles con TF 2.15) =====
 numpy==1.26.4
